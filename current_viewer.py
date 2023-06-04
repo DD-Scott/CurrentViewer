@@ -22,8 +22,8 @@ from os import path
 
 version = '1.0.7'
 
-port = ''
-baud = 115200
+port = 'COM14'
+baud = 500000 #115200
 
 logfile = 'current_viewer.log'
 
